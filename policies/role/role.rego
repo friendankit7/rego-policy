@@ -1,5 +1,7 @@
 package role
 
+
+
 allow := true {
-  input.user == "alice"
+  input.user == "ankit"
 }
